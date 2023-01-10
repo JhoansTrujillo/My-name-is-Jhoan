@@ -1,10 +1,9 @@
 - 👋 Hi, Jhoan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML,CSS,Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in many things such as
+- 🌱 I’m currently learning Node.JS, Express, Ruby.
+- 📫 You can reach me at: jhoantrujillo95@gmail.com
 
 <!---
-shoetheshoemaker/shoetheshoemaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JhoansTrujillo/Hi, I'm Jhoan! is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
