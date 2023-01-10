@@ -1,4 +1,4 @@
-- 👋 Hi, Jhoan
+- 👋 Hi, I'm Jhoan
 - 👀 I’m interested in many things such as
 - 🌱 I’m currently learning Node.JS, Express, Ruby.
 - 📫 You can reach me at: jhoantrujillo95@gmail.com
